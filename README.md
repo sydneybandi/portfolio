@@ -4,6 +4,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Email**: [bandisydney@gmail.com](bandisydney@gmail.com)
 - **Twitter**: [@bandi_sydney](https://twitter.com/bandi_sydney)
 
+#
 ## Projects
 
 <img align="left" width="250" height="150" src="https://github.com/sydneybandi/portfolio/blob/master/images/telecom.jpg"> **[ Data Pipelines with Prefect and Docker](https://github.com/sydneybandi/Data_Pipelines/tree/main/prefect-docker)**
@@ -15,6 +16,12 @@ In this project I have used Prefect to store the workflow code in GitHub and run
 <img align="left" width="250" height="150" src="https://github.com/sydneybandi/portfolio/blob/master/images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/sydneybandi/Instacart_Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/sydneybandi/air_pollution/blob/main/plots/daily_average.png"> **[Air pollution functional Analysis](https://github.com/sydneybandi/air_pollution)**
+
+Appliying functional analysis to some air pollution data using R
 
 #
 
