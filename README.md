@@ -25,7 +25,7 @@ Appliying functional analysis to some air pollution data using R
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/sydneybandi/portfolio/blob/master/images/telecom.jpg"> **[Malaria Related Deaths(Africa) Viz](https://public.tableau.com/app/profile/sydney.bandi/viz/MalariaRelatedDeathsAfricaViz/MalariainAfrica)**
+<img align="left" width="250" height="150" src="https://github.com/sydneybandi/portfolio/blob/master/images/viz.png"> **[Malaria Related Deaths(Africa) Viz](https://public.tableau.com/app/profile/sydney.bandi/viz/MalariaRelatedDeathsAfricaViz/MalariainAfrica)**
 
 This is a tableau visualisation project on the deaths caused by malaria in Africa between 2000 and 2014
 
