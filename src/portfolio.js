@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -21,11 +21,10 @@ const seo = {
 const greeting = {
   title: "Sydney Bandi",
   logo_name: "SydneyBandi",
-  nickname: "Data Analyst | Data Scientist",
+  nickname: "Data Engineer | Data Scientist",
   subTitle:
     "Motivate, teamwork-oriented, and responsible Data Analyst with significant experience in increasing comprehension of reports and presentations by the average professional. Highly skilled, data-driven and possessing a professional certification in Data and Product analytics .",
-  resumeLink:
-    "https://bit.ly/3gRTr3Q",
+  resumeLink: "https://bit.ly/3gRTr3Q",
   portfolio_repository: "https://github.com/sydneybandi",
   githubProfile: "https://github.com/sydneybandi",
 };
@@ -61,7 +60,7 @@ const socialMediaLinks = [
     link: "https://twitter.com/bandi_sydney",
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  }
+  },
 ];
 
 const skills = {
@@ -299,7 +298,6 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
       style: {
@@ -307,9 +305,7 @@ const competitiveSites = {
       },
       profileLink: "https://www.kaggle.com/sydneybandi",
     },
-
   ],
-  
 };
 
 const degrees = {
@@ -322,7 +318,7 @@ const degrees = {
       duration: "2018 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development."
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
       website_link: "https://www.mmu.ac.ke/",
     },
@@ -338,10 +334,10 @@ const degrees = {
         "⚡ Use foundational programming and software development knowledge and skills to develop efficient software applications",
         "⚡ Develop collaborative skills to create solutions to problems within an agile development environment",
         "⚡ Explore various programming and software development concepts and principles such as data structures, inheritance, polymorphism, abstraction and encapsulation",
-        "⚡ Apply object-oriented programming concepts and principles throughout the various phases of the Software Development Lifecycle"
+        "⚡ Apply object-oriented programming concepts and principles throughout the various phases of the Software Development Lifecycle",
       ],
       website_link: "https://airads.ac.ke/",
-    }
+    },
   ],
 };
 
@@ -351,8 +347,7 @@ const certifications = {
       title: "AWS Certified Data Analytics - Specialty",
       subtitle: "- AWS",
       logo_path: "stanford_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "AWS",
       color_code: "#8C151599",
     },
@@ -360,8 +355,7 @@ const certifications = {
       title: "Product Analytics",
       subtitle: "- product school",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "product",
       color_code: "#00000099",
     },
@@ -369,8 +363,7 @@ const certifications = {
       title: "ML on GCP",
       subtitle: "- GCP Training",
       logo_path: "google_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
@@ -378,8 +371,7 @@ const certifications = {
       title: "Data Science",
       subtitle: "- Alex Aklson",
       logo_path: "ibm_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
@@ -387,8 +379,7 @@ const certifications = {
       title: "Big Data",
       subtitle: "- Kim Akers",
       logo_path: "microsoft_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
@@ -396,11 +387,10 @@ const certifications = {
       title: "Advanced Data Science",
       subtitle: "- Romeo Kienzler",
       logo_path: "ibm_logo.png",
-      certificate_link:
-        "",
+      certificate_link: "",
       alt_name: "IBM",
       color_code: "#1F70C199",
-    }
+    },
   ],
 };
 
@@ -422,10 +412,9 @@ const experience = {
           logo_path: "ibm_logo.png",
           duration: "Feb 2021 - April 2022",
           location: "Nairobi,Kenya",
-          description:[
-            "1) Contributed to the intergration of hubspot CRM for sales force automation.This contributed to the increased the number of sales by 20%      (2)Introduced Mixpanel for product analytics that enabled the company to see where there product works well and where it doesn't (3)Introduced and Integrated data studio to Automate and schedule web analytics reports that was consumed by team members and the management."
-          ]
-            ,
+          description: [
+            "1) Contributed to the intergration of hubspot CRM for sales force automation.This contributed to the increased the number of sales by 20%      (2)Introduced Mixpanel for product analytics that enabled the company to see where there product works well and where it doesn't (3)Introduced and Integrated data studio to Automate and schedule web analytics reports that was consumed by team members and the management.",
+          ],
           color: "#0879bf",
         },
         {
@@ -439,18 +428,15 @@ const experience = {
             "Through lexical analysis and syntactic analysis (parsing), I transformed unstructured data into structured data that is easier to read, understand and use.This enabled the company to scrape data (jobs) from the internet and provide it to clients",
           color: "#9b1578",
         },
-
       ],
     },
     {
       title: "Internships",
       experiences: [
-
         {
           title: "Data Analyst Intern",
           company: "mTek-Services",
-          company_url:
-            "https://mtek-services.com/",
+          company_url: "https://mtek-services.com/",
           logo_path: "intel_logo.jpg",
           duration: "Feb 2021 - May 2021",
           location: "Nairobi,Kenya",
@@ -463,8 +449,6 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
-        
-
         {
           title: "Developer Students Club Member",
           company: "Multimedia University of Kenya",
@@ -515,11 +499,11 @@ const publications = {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Digital Motor Vehicle Insurance Blog",
       createdAt: "2021-06-30T16:26:54Z",
-      description: "Blog written on Digital Motor Vehicle Insurance published by mTek ",
+      description:
+        "Blog written on Digital Motor Vehicle Insurance published by mTek ",
       url:
         "https://mtek-services.com/only-the-good-stuff-for-you-and-your-car/",
     },
-
   ],
 };
 
@@ -540,10 +524,10 @@ const contactPageData = {
   },
   addressSection: {
     title: "Location",
-    subtitle:
-      "Nairobi,Kenya",
+    subtitle: "Nairobi,Kenya",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/place/Nairobi/@-1.303209,36.8473969,11z/",
+    location_map_link:
+      "https://www.google.com/maps/place/Nairobi/@-1.303209,36.8473969,11z/",
   },
   phoneSection: {
     title: "Phone Number",
