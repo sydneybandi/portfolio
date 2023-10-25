@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/build
+
 .pnp.js
 
 # testing
@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Ignore node_modules
+/node_modules
+
+# Ignore npm's cache
+.npm
+
+# Ignore .log and .lock files
+*.log
+*.lock
