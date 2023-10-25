@@ -295,6 +295,48 @@ const skills = {
         },
       ],
     },
+    {
+      title: "Digital Marketing and SEO Optimisation",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Increasing website visibility and rankings",
+        "⚡ Enhancing user experience through on-page and off-page optimization",
+        "⚡ Designing and executing high-impact paid advertising campaigns",
+        "⚡ Using analytics tools to extract valuable insights",
+        "⚡ Combining SEO, content, paid advertising, and social media for consistent growth and success",
+        "⚡ Transforming online brand presence",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Semrush ",
+          fontAwesomeClassname: "simple-icons:semrush",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Google Analytics",
+          fontAwesomeClassname: "logos:google-analytics",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Google Adsense",
+          fontAwesomeClassname: "logos:google-adsense",
+          style: {
+            color: "#FF7C00",
+          },
+        },
+        {
+          skillName: "Search Console",
+          fontAwesomeClassname: "logos:google-search-console",
+          style: {
+            color: "#000000",
+          },
+        },
+      ],
+    },
   ],
 };
 
